@@ -1,6 +1,6 @@
 ### Git Automation 
 
-To install, first make sure that `/usr/local/sbin/` is in your `$PATH` environment, and if not add the line to your `~/.bash_profile`
+To install, first make sure that `/usr/local/sbin/` is in your `$PATH` environment, and if not add the following to your `~/.bash_profile`
 ```
 PATH=$PATH:/usr/local/sbin
 ```
