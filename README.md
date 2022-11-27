@@ -20,5 +20,5 @@ git-push
 
 To remove the automation run the clean target
 ```
-sudo make install
+sudo make clean
 ```
