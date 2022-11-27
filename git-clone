@@ -1,2 +1,2 @@
 #!/bin/bash
-zx /usr/local/sbin/git/clone.mjs
+zx /usr/local/sbin/git/clone.mjs $1
