@@ -3,7 +3,7 @@ set timeout -1
 set GIT_PASSWD [lindex $argv 0]
 set GIT_BRANCH [lindex $argv 1]
 
-spawn git push --force
+spawn git push
 expect {
 	"passphrase" {
 		send "$GIT_PASSWD\r"

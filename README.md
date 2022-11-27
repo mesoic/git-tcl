@@ -8,3 +8,10 @@ cd git-tcl/git
 touch .passwd
 vi .passwd
 ```
+
+Then via the command line you will have
+```
+git-clone
+git-pull
+git-push
+```
